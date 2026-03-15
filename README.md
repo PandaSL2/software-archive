@@ -14,7 +14,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/pandaSL2/software-archive)
 ![Stars](https://img.shields.io/github/stars/pandaSL2/software-archive)
 ![Forks](https://img.shields.io/github/forks/pandaSL2/software-archive)
-![License](https://img.shields.io/github/license/pandaSL2/software-archive)
+
 
 </p>
 
@@ -186,6 +186,4 @@ This repository is provided for **documentation and educational purposes only**.
 
 ---
 
-# 📜 License
 
-This project is licensed under the **MIT License**.
