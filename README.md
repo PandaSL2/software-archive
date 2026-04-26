@@ -43,13 +43,7 @@ This repository is designed to help users easily understand how to install and m
 
 ---
 
-## 🧾 Microsoft Applications
 
-| Software              | Version | Platform    |
-| --------------------- | ------- | ----------- |
-| Microsoft Office LTSC | 2024    | Windows x64 |
-
----
 
 # 🛠 Universal Installation Guide
 
